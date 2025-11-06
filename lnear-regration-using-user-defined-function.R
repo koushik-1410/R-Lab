@@ -53,3 +53,4 @@ abline(a = model$intercept, b = model$slope, col = "red", lwd = 2)
 
 
 
+
